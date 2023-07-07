@@ -5,7 +5,7 @@
 3 - register and active the accound by changing the email_verified or add the mailtrap credentials
 4 - login and create a calendar and events, binding with the user
 
-
+```sh
 sql query:
 
 CREATE DATABASE IF NOT EXISTS `on_timer`;
@@ -22,3 +22,4 @@ CREATE TABLE users (
      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
      calendar_uuid VARCHAR(255) NULL
 );
+```
