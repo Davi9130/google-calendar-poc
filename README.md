@@ -1,9 +1,9 @@
 # google-calendar-poc
 
-1 - setup a docker with mysql:latest
-2 - create the db and the tables
-3 - register and active the accound by changing the email_verified or add the mailtrap credentials
-4 - login and create a calendar and events, binding with the user
+1 - setup a docker with mysql:latest<br/>
+2 - create the db and the tables<br/>
+3 - register and active the accound by changing the email_verified or add the mailtrap credentials<br/>
+4 - login and create a calendar and events, binding with the user<br/>
 
 ```sh
 sql query:
